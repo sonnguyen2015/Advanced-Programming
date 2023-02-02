@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Lab1.deps.json
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Lab1.runtimeconfig.json
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Lab1.runtimeconfig.dev.json
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Lab1.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/ref/Lab1.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Lab1.pdb
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfo.cs
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/ref/Lab1.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.pdb
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Lab1.genruntimeconfig.cache

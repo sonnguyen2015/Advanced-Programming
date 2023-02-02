@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Fram.deps.json
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Fram.runtimeconfig.json
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Fram.runtimeconfig.dev.json
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Fram.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/ref/Fram.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/bin/Debug/net5.0/Fram.pdb
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.AssemblyInfo.cs
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/ref/Fram.dll
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.pdb
+/Users/sonnguyen/Projects/Lab1/Lab1/obj/Debug/net5.0/Fram.genruntimeconfig.cache
