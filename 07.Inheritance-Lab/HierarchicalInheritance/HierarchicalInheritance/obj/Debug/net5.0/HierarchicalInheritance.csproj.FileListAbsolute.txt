@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/bin/Debug/net5.0/HierarchicalInheritance.deps.json
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/bin/Debug/net5.0/HierarchicalInheritance.runtimeconfig.json
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/bin/Debug/net5.0/HierarchicalInheritance.runtimeconfig.dev.json
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/bin/Debug/net5.0/HierarchicalInheritance.dll
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/bin/Debug/net5.0/ref/HierarchicalInheritance.dll
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/bin/Debug/net5.0/HierarchicalInheritance.pdb
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.AssemblyInfo.cs
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.dll
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/ref/HierarchicalInheritance.dll
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.pdb
+/Users/sonnguyen/Projects/HierarchicalInheritance/HierarchicalInheritance/obj/Debug/net5.0/HierarchicalInheritance.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/bin/Debug/net5.0/MultipleInheritance.deps.json
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/bin/Debug/net5.0/MultipleInheritance.runtimeconfig.json
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/bin/Debug/net5.0/MultipleInheritance.runtimeconfig.dev.json
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/bin/Debug/net5.0/MultipleInheritance.dll
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/bin/Debug/net5.0/ref/MultipleInheritance.dll
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/bin/Debug/net5.0/MultipleInheritance.pdb
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.AssemblyInfo.cs
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.dll
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/ref/MultipleInheritance.dll
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.pdb
+/Users/sonnguyen/Projects/MultipleInheritance/MultipleInheritance/obj/Debug/net5.0/MultipleInheritance.genruntimeconfig.cache

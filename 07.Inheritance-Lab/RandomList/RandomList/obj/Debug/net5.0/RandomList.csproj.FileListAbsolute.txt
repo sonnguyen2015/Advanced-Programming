@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/RandomList/RandomList/bin/Debug/net5.0/RandomList.deps.json
+/Users/sonnguyen/Projects/RandomList/RandomList/bin/Debug/net5.0/RandomList.runtimeconfig.json
+/Users/sonnguyen/Projects/RandomList/RandomList/bin/Debug/net5.0/RandomList.runtimeconfig.dev.json
+/Users/sonnguyen/Projects/RandomList/RandomList/bin/Debug/net5.0/RandomList.dll
+/Users/sonnguyen/Projects/RandomList/RandomList/bin/Debug/net5.0/ref/RandomList.dll
+/Users/sonnguyen/Projects/RandomList/RandomList/bin/Debug/net5.0/RandomList.pdb
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.AssemblyInfo.cs
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.dll
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/ref/RandomList.dll
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.pdb
+/Users/sonnguyen/Projects/RandomList/RandomList/obj/Debug/net5.0/RandomList.genruntimeconfig.cache
