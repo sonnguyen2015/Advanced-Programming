@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/bin/Debug/net6.0/03.Shapes
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/bin/Debug/net6.0/03.Shapes.deps.json
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/bin/Debug/net6.0/03.Shapes.runtimeconfig.json
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/bin/Debug/net6.0/03.Shapes.dll
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/bin/Debug/net6.0/03.Shapes.pdb
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.AssemblyInfo.cs
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.dll
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/refint/03.Shapes.dll
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.pdb
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/03.Shapes.genruntimeconfig.cache
+/Users/sonnguyen/Projects/03.Shapes/03.Shapes/obj/Debug/net6.0/ref/03.Shapes.dll

@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/02.Animals/02.Animals/bin/Debug/net6.0/02.Animals
+/Users/sonnguyen/Projects/02.Animals/02.Animals/bin/Debug/net6.0/02.Animals.deps.json
+/Users/sonnguyen/Projects/02.Animals/02.Animals/bin/Debug/net6.0/02.Animals.runtimeconfig.json
+/Users/sonnguyen/Projects/02.Animals/02.Animals/bin/Debug/net6.0/02.Animals.dll
+/Users/sonnguyen/Projects/02.Animals/02.Animals/bin/Debug/net6.0/02.Animals.pdb
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.AssemblyInfo.cs
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.dll
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/refint/02.Animals.dll
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.pdb
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/02.Animals.genruntimeconfig.cache
+/Users/sonnguyen/Projects/02.Animals/02.Animals/obj/Debug/net6.0/ref/02.Animals.dll

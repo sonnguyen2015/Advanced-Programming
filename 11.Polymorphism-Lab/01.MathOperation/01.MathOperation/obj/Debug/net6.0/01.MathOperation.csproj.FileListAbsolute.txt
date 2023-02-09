@@ -1,0 +1,15 @@
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/bin/Debug/net6.0/01.MathOperation
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/bin/Debug/net6.0/01.MathOperation.deps.json
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/bin/Debug/net6.0/01.MathOperation.runtimeconfig.json
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/bin/Debug/net6.0/01.MathOperation.dll
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/bin/Debug/net6.0/01.MathOperation.pdb
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.csproj.AssemblyReference.cache
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.AssemblyInfoInputs.cache
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.AssemblyInfo.cs
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.csproj.CoreCompileInputs.cache
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.dll
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/refint/01.MathOperation.dll
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.pdb
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/01.MathOperation.genruntimeconfig.cache
+/Users/sonnguyen/Projects/01.MathOperation/01.MathOperation/obj/Debug/net6.0/ref/01.MathOperation.dll
