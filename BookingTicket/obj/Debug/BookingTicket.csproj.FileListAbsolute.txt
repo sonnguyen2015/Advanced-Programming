@@ -1,0 +1,16 @@
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.csproj.AssemblyReference.cache
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.csproj.SuggestedBindingRedirects.cache
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.csproj.CoreCompileInputs.cache
+E:\C#\BookingTicket\BookingTicket\bin\Debug\BookingTicket.exe.config
+E:\C#\BookingTicket\BookingTicket\bin\Debug\BookingTicket.exe
+E:\C#\BookingTicket\BookingTicket\bin\Debug\BookingTicket.pdb
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.exe
+E:\C#\BookingTicket\BookingTicket\obj\Debug\BookingTicket.pdb
+C:\Users\My PC\Documents\GitHub\BookingTicket\bin\Debug\BookingTicket.exe.config
+C:\Users\My PC\Documents\GitHub\BookingTicket\bin\Debug\BookingTicket.exe
+C:\Users\My PC\Documents\GitHub\BookingTicket\bin\Debug\BookingTicket.pdb
+C:\Users\My PC\Documents\GitHub\BookingTicket\obj\Debug\BookingTicket.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\GitHub\BookingTicket\obj\Debug\BookingTicket.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\Documents\GitHub\BookingTicket\obj\Debug\BookingTicket.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\GitHub\BookingTicket\obj\Debug\BookingTicket.exe
+C:\Users\My PC\Documents\GitHub\BookingTicket\obj\Debug\BookingTicket.pdb
